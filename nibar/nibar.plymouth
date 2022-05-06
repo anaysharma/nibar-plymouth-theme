@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Nibar
+Description=Nibar Plymouth theme.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/nibar
+ScriptFile=/usr/share/plymouth/themes/nibar/nibar.script
