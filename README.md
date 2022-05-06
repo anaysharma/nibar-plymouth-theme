@@ -2,8 +2,6 @@
 
 A simple loading bar theme for plymouth.
 
-![example-plymouth](nibar/loading2_42.png)
-
 ## Install
 
 Installing Plymouth themes from source is quite a convoluted process so strap in. First download this repository and build the theme:
