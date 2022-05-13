@@ -4,8 +4,8 @@ DESTDIR?=/usr/share
 
 install:
 	mkdir -p $(DESTDIR)/plymouth/themes
-	cp -r numix $(DESTDIR)/plymouth/themes
-	sed -i 's|DESTDIR|$(DESTDIR)|g' $(DESTDIR)/plymouth/themes/numix/numix.plymouth
+	cp -r nibar $(DESTDIR)/plymouth/themes
+	sed -i 's|DESTDIR|$(DESTDIR)|g' $(DESTDIR)/plymouth/themes/nibar/nibar.plymouth
 
 uninstall:
-	rm -rf "$(DESTDIR)/plymouth/themes/numix"
+	rm -rf "$(DESTDIR)/plymouth/themes/nibar"
