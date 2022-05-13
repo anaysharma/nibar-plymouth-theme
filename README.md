@@ -1,4 +1,4 @@
-# Nbar Plymouth
+# Nibar Plymouth
 
 A simple loading bar theme for plymouth.
 
